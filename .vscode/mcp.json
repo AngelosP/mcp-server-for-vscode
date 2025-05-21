@@ -2,7 +2,7 @@
   "servers": {
     "vscode-date-time": {
       "type": "stdio",
-      "command": "C:\\Users\\angel\\AppData\\Local\\fnm_multishells\\26880_1747722822497\\node.exe",
+      "command": "node.exe",
       "args": [
         "${workspaceFolder}/build/index.js"
       ]
